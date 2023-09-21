@@ -22,7 +22,7 @@ para i en el rango (16):
  círculo (40, 24) 
 
 # Genera la parte centrall de la flor
-            color("black")              
+               color("black")                 
 forma("tortuga")
 fillcolor("marrón")
 phi = 137,508 * (matemáticas.pi/ 180,0)
